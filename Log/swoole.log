@@ -1,0 +1,602 @@
+[2019-12-18 15:08:54 *25252.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught TypeError: Argument 1 passed to EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}() must be an instance of EasySwoole\EasySwoole\swoole_server, instance of Swoole\WebSocket\Server given in /home/www/easyswoole_myim/EasySwooleEvent.php:36
+Stack trace:
+#0 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}(Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#1 /home/www/easyswoole_myim/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func(Object(Closure), Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#2 {main}
+  thrown in /home/www/easyswoole_myim/EasySwooleEvent.php on line 36
+[2019-12-18 15:08:54 $25244.0]	WARNING	swManager_check_exit_status: worker#3[pid=25252] abnormal exit, status=255, signal=0
+[2019-12-18 15:09:35 *25277.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught TypeError: Argument 1 passed to EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}() must be an instance of EasySwoole\EasySwoole\swoole_server, instance of Swoole\WebSocket\Server given in /home/www/easyswoole_myim/EasySwooleEvent.php:36
+Stack trace:
+#0 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}(Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#1 /home/www/easyswoole_myim/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func(Object(Closure), Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#2 {main}
+  thrown in /home/www/easyswoole_myim/EasySwooleEvent.php on line 36
+[2019-12-18 15:09:35 $25244.0]	WARNING	swManager_check_exit_status: worker#3[pid=25277] abnormal exit, status=255, signal=0
+[2019-12-18 15:09:44 *25279.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught TypeError: Argument 1 passed to EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}() must be an instance of EasySwoole\EasySwoole\swoole_server, instance of Swoole\WebSocket\Server given in /home/www/easyswoole_myim/EasySwooleEvent.php:36
+Stack trace:
+#0 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}(Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#1 /home/www/easyswoole_myim/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func(Object(Closure), Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#2 {main}
+  thrown in /home/www/easyswoole_myim/EasySwooleEvent.php on line 36
+[2019-12-18 15:09:45 $25244.0]	WARNING	swManager_check_exit_status: worker#3[pid=25279] abnormal exit, status=255, signal=0
+[2019-12-18 15:09:45 *25288.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught TypeError: Argument 1 passed to EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}() must be an instance of EasySwoole\EasySwoole\swoole_server, instance of Swoole\WebSocket\Server given in /home/www/easyswoole_myim/EasySwooleEvent.php:36
+Stack trace:
+#0 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}(Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#1 /home/www/easyswoole_myim/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func(Object(Closure), Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#2 {main}
+  thrown in /home/www/easyswoole_myim/EasySwooleEvent.php on line 36
+[2019-12-18 15:09:45 $25244.0]	WARNING	swManager_check_exit_status: worker#3[pid=25288] abnormal exit, status=255, signal=0
+[2019-12-18 15:09:46 *25289.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught TypeError: Argument 1 passed to EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}() must be an instance of EasySwoole\EasySwoole\swoole_server, instance of Swoole\WebSocket\Server given in /home/www/easyswoole_myim/EasySwooleEvent.php:36
+Stack trace:
+#0 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}(Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#1 /home/www/easyswoole_myim/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func(Object(Closure), Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#2 {main}
+  thrown in /home/www/easyswoole_myim/EasySwooleEvent.php on line 36
+[2019-12-18 15:09:47 $25244.0]	WARNING	swManager_check_exit_status: worker#3[pid=25289] abnormal exit, status=255, signal=0
+[2019-12-18 15:10:53 *25290.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught TypeError: Argument 1 passed to EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}() must be an instance of EasySwoole\EasySwoole\swoole_server, instance of Swoole\WebSocket\Server given in /home/www/easyswoole_myim/EasySwooleEvent.php:36
+Stack trace:
+#0 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}(Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#1 /home/www/easyswoole_myim/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func(Object(Closure), Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#2 {main}
+  thrown in /home/www/easyswoole_myim/EasySwooleEvent.php on line 36
+[2019-12-18 15:10:53 $25244.0]	WARNING	swManager_check_exit_status: worker#3[pid=25290] abnormal exit, status=255, signal=0
+[2019-12-18 15:11:20 *25312.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught TypeError: Argument 1 passed to EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}() must be an instance of EasySwoole\EasySwoole\swoole_server, instance of Swoole\WebSocket\Server given in /home/www/easyswoole_myim/EasySwooleEvent.php:36
+Stack trace:
+#0 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}(Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#1 /home/www/easyswoole_myim/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func(Object(Closure), Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#2 {main}
+  thrown in /home/www/easyswoole_myim/EasySwooleEvent.php on line 36
+[2019-12-18 15:11:20 $25244.0]	WARNING	swManager_check_exit_status: worker#3[pid=25312] abnormal exit, status=255, signal=0
+[2019-12-18 15:15:21 *25348.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught TypeError: Argument 1 passed to EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}() must be an instance of EasySwoole\EasySwoole\swoole_server, instance of Swoole\WebSocket\Server given in /home/www/easyswoole_myim/EasySwooleEvent.php:36
+Stack trace:
+#0 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}(Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#1 /home/www/easyswoole_myim/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func(Object(Closure), Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#2 {main}
+  thrown in /home/www/easyswoole_myim/EasySwooleEvent.php on line 36
+[2019-12-18 15:15:21 $25340.0]	WARNING	swManager_check_exit_status: worker#3[pid=25348] abnormal exit, status=255, signal=0
+[2019-12-18 15:18:35 *25365.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught TypeError: Argument 1 passed to EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}() must be an instance of EasySwoole\EasySwoole\swoole_server, instance of Swoole\WebSocket\Server given in /home/www/easyswoole_myim/EasySwooleEvent.php:36
+Stack trace:
+#0 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}(Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#1 /home/www/easyswoole_myim/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func(Object(Closure), Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#2 {main}
+  thrown in /home/www/easyswoole_myim/EasySwooleEvent.php on line 36
+[2019-12-18 15:18:35 $25340.0]	WARNING	swManager_check_exit_status: worker#3[pid=25365] abnormal exit, status=255, signal=0
+[2019-12-18 15:22:38 *25446.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught TypeError: Argument 1 passed to EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}() must be an instance of EasySwoole\EasySwoole\swoole_server, instance of Swoole\WebSocket\Server given in /home/www/easyswoole_myim/EasySwooleEvent.php:36
+Stack trace:
+#0 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}(Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#1 /home/www/easyswoole_myim/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func(Object(Closure), Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#2 {main}
+  thrown in /home/www/easyswoole_myim/EasySwooleEvent.php on line 36
+[2019-12-18 15:22:38 $25438.0]	WARNING	swManager_check_exit_status: worker#3[pid=25446] abnormal exit, status=255, signal=0
+[2019-12-18 15:25:22 *25510.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught TypeError: Argument 1 passed to EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}() must be an instance of EasySwoole\EasySwoole\swoole_websocket_server, instance of Swoole\WebSocket\Server given in /home/www/easyswoole_myim/EasySwooleEvent.php:37
+Stack trace:
+#0 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}(Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#1 /home/www/easyswoole_myim/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func(Object(Closure), Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#2 {main}
+  thrown in /home/www/easyswoole_myim/EasySwooleEvent.php on line 37
+[2019-12-18 15:25:22 $25502.0]	WARNING	swManager_check_exit_status: worker#3[pid=25510] abnormal exit, status=255, signal=0
+[2019-12-18 15:29:37 *25565.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught TypeError: Argument 1 passed to EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}() must be an instance of EasySwoole\EasySwoole\swoole_websocket_server, instance of Swoole\WebSocket\Server given in /home/www/easyswoole_myim/EasySwooleEvent.php:37
+Stack trace:
+#0 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}(Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#1 /home/www/easyswoole_myim/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func(Object(Closure), Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#2 {main}
+  thrown in /home/www/easyswoole_myim/EasySwooleEvent.php on line 37
+[2019-12-18 15:29:37 $25557.0]	WARNING	swManager_check_exit_status: worker#3[pid=25565] abnormal exit, status=255, signal=0
+[2019-12-18 15:39:34 *25681.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught TypeError: Argument 1 passed to EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}() must be an instance of EasySwoole\EasySwoole\swoole_websocket_server, instance of Swoole\WebSocket\Server given in /home/www/easyswoole_myim/EasySwooleEvent.php:36
+Stack trace:
+#0 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}(Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#1 /home/www/easyswoole_myim/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func(Object(Closure), Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#2 {main}
+  thrown in /home/www/easyswoole_myim/EasySwooleEvent.php on line 36
+[2019-12-18 15:39:34 $25673.0]	WARNING	swManager_check_exit_status: worker#3[pid=25681] abnormal exit, status=255, signal=0
+[2019-12-18 16:41:09 $26329.0]	INFO	Server is reloading all workers now
+[2019-12-18 17:27:02 $26831.0]	INFO	Server is reloading all workers now
+[2019-12-18 17:28:14 $26831.0]	INFO	Server is reloading all workers now
+[2019-12-18 17:33:08 $26831.0]	INFO	Server is reloading all workers now
+[2019-12-18 17:51:24 $26831.0]	INFO	Server is reloading all workers now
+[2019-12-18 17:54:19 $26831.0]	INFO	Server is reloading all workers now
+[2019-12-18 18:15:20 *27195.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:15:20 *27190.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:15:20 *27193.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:15:20 #26830.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:15:20 $26831.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:15:20 $26831.0]	WARNING	swManager_check_exit_status: worker#8[pid=26844] abnormal exit, status=0, signal=1
+[2019-12-18 18:15:20 *27194.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:15:20 *27192.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:15:20 *27189.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:15:20 $26831.0]	WARNING	swManager_check_exit_status: worker#9[pid=26845] abnormal exit, status=0, signal=1
+[2019-12-18 18:15:20 *27196.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:15:20 $26831.0]	WARNING	swManager_check_exit_status: worker#10[pid=26846] abnormal exit, status=0, signal=1
+[2019-12-18 18:15:20 *27191.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-18 18:15:20 $26831.0]	WARNING	swManager_check_exit_status: worker#11[pid=26847] abnormal exit, status=0, signal=1
+[2019-12-18 18:15:20 $26831.0]	WARNING	swManager_check_exit_status: worker#12[pid=26848] abnormal exit, status=0, signal=1
+[2019-12-19 10:00:53 $18321.0]	INFO	Server is reloading all workers now
+[2019-12-19 10:23:13 $18674.0]	INFO	Server is reloading all workers now
+[2019-12-19 10:23:56 *18789.7]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught ArgumentCountError: Too few arguments to function EasySwoole\Redis\Redis::keys(), 0 passed in /home/www/easyswoole_myim/App/WebSocket/WebSocketEvents.php on line 45 and exactly 1 expected in /home/www/easyswoole_myim/vendor/easyswoole/redis/src/Redis.php:405
+Stack trace:
+#0 /home/www/easyswoole_myim/App/WebSocket/WebSocketEvents.php(45): EasySwoole\Redis\Redis->keys()
+#1 [internal function]: App\WebSocket\WebSocketEvents::onOpen(Object(Swoole\WebSocket\Server), Object(Swoole\Http\Request))
+#2 /home/www/easyswoole_myim/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func(Array, Object(Swoole\WebSocket\Server), Object(Swoole\Http\Request))
+#3 {main}
+  thrown in /home/www/easyswoole_myim/vendor/easyswoole/redis/src/Redis.php on line 405
+[2019-12-19 10:23:56 $18674.0]	WARNING	swManager_check_exit_status: worker#7[pid=18789] abnormal exit, status=255, signal=0
+[2019-12-19 10:24:42 $18674.0]	INFO	Server is reloading all workers now
+[2019-12-19 10:24:49 *18817.7]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught ArgumentCountError: Too few arguments to function EasySwoole\Redis\Redis::keys(), 0 passed in /home/www/easyswoole_myim/App/WebSocket/WebSocketEvents.php on line 45 and exactly 1 expected in /home/www/easyswoole_myim/vendor/easyswoole/redis/src/Redis.php:405
+Stack trace:
+#0 /home/www/easyswoole_myim/App/WebSocket/WebSocketEvents.php(45): EasySwoole\Redis\Redis->keys()
+#1 [internal function]: App\WebSocket\WebSocketEvents::onOpen(Object(Swoole\WebSocket\Server), Object(Swoole\Http\Request))
+#2 /home/www/easyswoole_myim/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func(Array, Object(Swoole\WebSocket\Server), Object(Swoole\Http\Request))
+#3 {main}
+  thrown in /home/www/easyswoole_myim/vendor/easyswoole/redis/src/Redis.php on line 405
+[2019-12-19 10:24:49 $18674.0]	WARNING	swManager_check_exit_status: worker#7[pid=18817] abnormal exit, status=255, signal=0
+[2019-12-19 10:26:46 $18674.0]	INFO	Server is reloading all workers now
+[2019-12-19 10:28:38 $18853.0]	INFO	Server is reloading all workers now
+[2019-12-19 10:29:45 $18853.0]	INFO	Server is reloading all workers now
+[2019-12-19 10:31:41 $18918.0]	INFO	Server is reloading all workers now
+[2019-12-19 10:32:36 $18975.0]	INFO	Server is reloading all workers now
+[2019-12-19 10:33:30 $19012.0]	INFO	Server is reloading all workers now
+[2019-12-19 10:34:38 $19040.0]	INFO	Server is reloading all workers now
+[2019-12-19 10:44:03 $19162.0]	INFO	Server is reloading all workers now
+[2019-12-19 10:44:21 $19162.0]	INFO	Server is reloading all workers now
+[2019-12-19 10:52:00 $19162.0]	INFO	Server is reloading all workers now
+[2019-12-19 10:52:10 *19308.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught TypeError: Argument 1 passed to EasySwoole\ORM\AbstractModel::update() must be of the type array, string given, called in /home/www/easyswoole_myim/App/WebSocket/WebSocketEvents.php on line 47 and defined in /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php:722
+Stack trace:
+#0 /home/www/easyswoole_myim/App/WebSocket/WebSocketEvents.php(47): EasySwoole\ORM\AbstractModel->update('user', Array)
+#1 [internal function]: App\WebSocket\WebSocketEvents::onOpen(Object(Swoole\WebSocket\Server), Object(Swoole\Http\Request))
+#2 /home/www/easyswoole_myim/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func(Array, Object(Swoole\WebSocket\Server), Object(Swoole\Http\Request))
+#3 {main}
+  thrown in /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php on line 722
+[2019-12-19 10:52:10 $19162.0]	WARNING	swManager_check_exit_status: worker#3[pid=19308] abnormal exit, status=255, signal=0
+[2019-12-19 10:52:57 *19309.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught TypeError: Argument 1 passed to EasySwoole\ORM\AbstractModel::update() must be of the type array, string given, called in /home/www/easyswoole_myim/App/WebSocket/WebSocketEvents.php on line 47 and defined in /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php:722
+Stack trace:
+#0 /home/www/easyswoole_myim/App/WebSocket/WebSocketEvents.php(47): EasySwoole\ORM\AbstractModel->update('user', Array)
+#1 [internal function]: App\WebSocket\WebSocketEvents::onOpen(Object(Swoole\WebSocket\Server), Object(Swoole\Http\Request))
+#2 /home/www/easyswoole_myim/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func(Array, Object(Swoole\WebSocket\Server), Object(Swoole\Http\Request))
+#3 {main}
+  thrown in /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php on line 722
+[2019-12-19 10:52:57 $19162.0]	WARNING	swManager_check_exit_status: worker#3[pid=19309] abnormal exit, status=255, signal=0
+[2019-12-19 10:58:03 $19162.0]	INFO	Server is reloading all workers now
+[2019-12-19 10:58:37 $19162.0]	INFO	Server is reloading all workers now
+[2019-12-19 11:05:23 $19389.0]	INFO	Server is reloading all workers now
+[2019-12-19 11:13:45 $19389.0]	INFO	Server is reloading all workers now
+[2019-12-19 11:28:36 $19389.0]	INFO	Server is reloading all workers now
+[2019-12-19 11:29:21 *19764.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[42000] [1064] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'read = ?  LIMIT 1' at line 1 in /home/www/easyswoole_myim/vendor/easyswoole/orm/src/Db/MysqliClient.php:60
+Stack trace:
+#0 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/DbManager.php(71): EasySwoole\ORM\Db\MysqliClient->query(Object(EasySwoole\Mysqli\QueryBuilder), false)
+#1 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php(1130): EasySwoole\ORM\DbManager->query(Object(EasySwoole\Mysqli\QueryBuilder), false, 'default')
+#2 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php(599): EasySwoole\ORM\AbstractModel->query(Object(EasySwoole\Mysqli\QueryBuilder))
+#3 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php(1203): EasySwoole\ORM\AbstractModel->all(NULL, true)
+#4 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php(311): EasySwoole\O in /home/www/easyswoole_myim/vendor/easyswoole/orm/src/Db/MysqliClient.php on line 60
+[2019-12-19 11:29:21 $19756.0]	WARNING	swManager_check_exit_status: worker#3[pid=19764] abnormal exit, status=255, signal=0
+[2019-12-19 11:31:36 $19756.0]	INFO	Server is reloading all workers now
+[2019-12-19 11:32:39 $19756.0]	INFO	Server is reloading all workers now
+[2019-12-19 11:33:38 $19756.0]	INFO	Server is reloading all workers now
+[2019-12-19 11:33:56 *19847.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[42000] [1064] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'read = ?  LIMIT 1' at line 1 in /home/www/easyswoole_myim/vendor/easyswoole/orm/src/Db/MysqliClient.php:60
+Stack trace:
+#0 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/DbManager.php(71): EasySwoole\ORM\Db\MysqliClient->query(Object(EasySwoole\Mysqli\QueryBuilder), false)
+#1 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php(1130): EasySwoole\ORM\DbManager->query(Object(EasySwoole\Mysqli\QueryBuilder), false, 'default')
+#2 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php(599): EasySwoole\ORM\AbstractModel->query(Object(EasySwoole\Mysqli\QueryBuilder))
+#3 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php(1203): EasySwoole\ORM\AbstractModel->all(NULL, true)
+#4 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php(311): EasySwoole\O in /home/www/easyswoole_myim/vendor/easyswoole/orm/src/Db/MysqliClient.php on line 60
+[2019-12-19 11:33:56 $19756.0]	WARNING	swManager_check_exit_status: worker#3[pid=19847] abnormal exit, status=255, signal=0
+[2019-12-19 11:38:38 $19756.0]	INFO	Server is reloading all workers now
+[2019-12-19 11:43:29 $19916.0]	INFO	Server is reloading all workers now
+[2019-12-19 11:52:54 $19995.0]	INFO	Server is reloading all workers now
+[2019-12-19 11:54:01 $20123.0]	INFO	Server is reloading all workers now
+[2019-12-19 11:58:38 $20123.0]	INFO	Server is reloading all workers now
+[2019-12-19 14:50:14 $21912.0]	INFO	Server is reloading all workers now
+[2019-12-19 14:53:22 $21973.0]	INFO	Server is reloading all workers now
+[2019-12-19 14:53:48 $22028.0]	INFO	Server is reloading all workers now
+[2019-12-19 14:54:14 $22068.0]	INFO	Server is reloading all workers now
+[2019-12-19 14:54:37 $22100.0]	INFO	Server is reloading all workers now
+[2019-12-19 14:54:38 $22100.0]	INFO	Server is reloading all workers now
+[2019-12-19 14:57:01 $22141.0]	INFO	Server is reloading all workers now
+[2019-12-19 14:57:56 $22197.0]	INFO	Server is reloading all workers now
+[2019-12-19 15:52:18 $22197.0]	INFO	Server is reloading all workers now
+[2019-12-19 15:59:43 $22197.0]	INFO	Server is reloading all workers now
+[2019-12-19 16:13:05 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 16:22:45 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 16:23:22 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 16:24:21 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 16:26:41 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 16:26:42 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 16:27:05 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 16:28:22 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 16:28:58 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 16:30:39 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 16:32:01 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 16:34:04 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 16:37:11 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 16:43:21 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 16:44:19 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 16:44:46 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 16:47:00 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 16:48:58 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 16:50:04 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:00:31 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:00:56 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:01:07 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:06:57 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:07:38 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:08:08 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:10:26 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:10:51 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:11:27 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:12:24 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:14:24 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:15:53 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:16:42 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:16:58 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:17:52 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:22:10 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:23:12 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:24:47 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:26:07 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:31:11 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:32:46 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:34:22 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:35:00 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:39:01 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:39:28 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:41:04 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:42:59 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:44:44 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:45:22 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:45:34 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:45:49 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:46:37 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:46:51 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:47:03 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:47:52 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:47:53 $22986.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:47:57 *24569.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[23000] [1052] Column 'id' in field list is ambiguous in /home/www/easyswoole_myim/vendor/easyswoole/orm/src/Db/MysqliClient.php:60
+Stack trace:
+#0 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/DbManager.php(71): EasySwoole\ORM\Db\MysqliClient->query(Object(EasySwoole\Mysqli\QueryBuilder), false)
+#1 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php(1130): EasySwoole\ORM\DbManager->query(Object(EasySwoole\Mysqli\QueryBuilder), false, 'default')
+#2 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php(564): EasySwoole\ORM\AbstractModel->query(Object(EasySwoole\Mysqli\QueryBuilder))
+#3 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php(651): EasySwoole\ORM\AbstractModel->get(Array, true)
+#4 /home/www/easyswoole_myim/App/Model/UserModel.php(19): EasySwoole\ORM\AbstractModel->findOne(Array)
+#5 /home/www/easyswoole_myim/App/WebSocket/WebSocketEvents.php(41): App\Model\UserModel->getUserInfoByToken('b5f4 in /home/www/easyswoole_myim/vendor/easyswoole/orm/src/Db/MysqliClient.php on line 60
+[2019-12-19 17:47:57 $22986.0]	WARNING	swManager_check_exit_status: worker#3[pid=24569] abnormal exit, status=255, signal=0
+[2019-12-19 17:48:53 *24588.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[23000] [1052] Column 'id' in field list is ambiguous in /home/www/easyswoole_myim/vendor/easyswoole/orm/src/Db/MysqliClient.php:60
+Stack trace:
+#0 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/DbManager.php(71): EasySwoole\ORM\Db\MysqliClient->query(Object(EasySwoole\Mysqli\QueryBuilder), false)
+#1 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php(1130): EasySwoole\ORM\DbManager->query(Object(EasySwoole\Mysqli\QueryBuilder), false, 'default')
+#2 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php(564): EasySwoole\ORM\AbstractModel->query(Object(EasySwoole\Mysqli\QueryBuilder))
+#3 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php(651): EasySwoole\ORM\AbstractModel->get(Array, true)
+#4 /home/www/easyswoole_myim/App/Model/UserModel.php(19): EasySwoole\ORM\AbstractModel->findOne(Array)
+#5 /home/www/easyswoole_myim/App/WebSocket/WebSocketEvents.php(41): App\Model\UserModel->getUserInfoByToken('b5f4 in /home/www/easyswoole_myim/vendor/easyswoole/orm/src/Db/MysqliClient.php on line 60
+[2019-12-19 17:48:53 $24580.0]	WARNING	swManager_check_exit_status: worker#3[pid=24588] abnormal exit, status=255, signal=0
+[2019-12-19 17:50:33 $24580.0]	INFO	Server is reloading all workers now
+[2019-12-19 17:53:56 $24644.0]	INFO	Server is reloading all workers now
+[2019-12-19 18:02:27 $24644.0]	INFO	Server is reloading all workers now
+[2019-12-19 18:05:14 $24644.0]	INFO	Server is reloading all workers now
+[2019-12-19 18:15:01 $24644.0]	INFO	Server is reloading all workers now
+[2019-12-19 18:15:18 $24644.0]	INFO	Server is reloading all workers now
+[2019-12-19 18:15:41 *24961.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-19 18:15:41 *24966.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-19 18:15:41 *24964.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-19 18:15:41 *24965.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-19 18:15:41 *24963.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-19 18:15:41 *24967.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-19 18:15:41 $24644.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-19 18:15:41 #24643.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-19 18:15:41 *24960.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-19 18:15:41 $24644.0]	WARNING	swManager_check_exit_status: worker#8[pid=24657] abnormal exit, status=0, signal=1
+[2019-12-19 18:15:41 *24968.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-19 18:15:41 $24644.0]	WARNING	swManager_check_exit_status: worker#11[pid=24660] abnormal exit, status=0, signal=1
+[2019-12-19 18:15:41 $24644.0]	WARNING	swManager_check_exit_status: worker#10[pid=24659] abnormal exit, status=0, signal=1
+[2019-12-19 18:15:41 $24644.0]	WARNING	swManager_check_exit_status: worker#9[pid=24658] abnormal exit, status=0, signal=1
+[2019-12-19 18:15:41 $24644.0]	WARNING	swManager_check_exit_status: worker#12[pid=24661] abnormal exit, status=0, signal=1
+[2019-12-19 18:15:41 $24644.0]	WARNING	swManager_check_exit_status: worker#13[pid=24662] abnormal exit, status=0, signal=1
+[2019-12-19 18:15:41 $24644.0]	WARNING	swManager_check_exit_status: worker#14[pid=24663] abnormal exit, status=0, signal=1
+[2019-12-19 18:15:41 $24644.0]	WARNING	swManager_check_exit_status: worker#15[pid=24664] abnormal exit, status=0, signal=1
+[2019-12-20 09:22:00 $26005.0]	INFO	Server is reloading all workers now
+[2019-12-20 09:22:22 $26005.0]	INFO	Server is reloading all workers now
+[2019-12-20 09:22:46 $26005.0]	INFO	Server is reloading all workers now
+[2019-12-20 09:28:27 $26005.0]	INFO	Server is reloading all workers now
+[2019-12-20 09:41:25 $26005.0]	INFO	Server is reloading all workers now
+[2019-12-20 09:42:40 $26005.0]	INFO	Server is reloading all workers now
+[2019-12-20 09:42:47 $26005.0]	INFO	Server is reloading all workers now
+[2019-12-20 09:42:55 $26005.0]	INFO	Server is reloading all workers now
+[2019-12-20 09:43:11 $26005.0]	INFO	Server is reloading all workers now
+[2019-12-20 09:44:18 $26005.0]	INFO	Server is reloading all workers now
+[2019-12-20 09:45:48 $26005.0]	INFO	Server is reloading all workers now
+[2019-12-20 09:55:07 $26430.0]	INFO	Server is reloading all workers now
+[2019-12-20 10:14:25 $26430.0]	INFO	Server is reloading all workers now
+[2019-12-20 10:14:44 $26430.0]	INFO	Server is reloading all workers now
+[2019-12-20 10:15:20 $26430.0]	INFO	Server is reloading all workers now
+[2019-12-20 10:15:37 $26430.0]	INFO	Server is reloading all workers now
+[2019-12-20 10:17:39 $26430.0]	INFO	Server is reloading all workers now
+[2019-12-20 10:25:02 $26430.0]	INFO	Server is reloading all workers now
+[2019-12-20 10:29:39 $26430.0]	INFO	Server is reloading all workers now
+[2019-12-20 10:34:53 $26430.0]	INFO	Server is reloading all workers now
+[2019-12-20 10:43:50 $26430.0]	INFO	Server is reloading all workers now
+[2019-12-20 10:48:05 $26430.0]	INFO	Server is reloading all workers now
+[2019-12-20 10:49:09 $26430.0]	INFO	Server is reloading all workers now
+[2019-12-20 10:56:57 $26430.0]	INFO	Server is reloading all workers now
+[2019-12-20 10:58:00 $26430.0]	INFO	Server is reloading all workers now
+[2019-12-20 11:20:26 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 11:23:08 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 11:25:57 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 11:28:21 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 11:30:14 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 11:33:05 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 11:33:21 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 11:34:02 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 11:36:16 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 11:41:17 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 11:49:33 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 11:50:04 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 11:50:18 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 11:50:49 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 11:51:16 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 14:18:31 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 14:34:19 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 15:02:17 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 15:07:59 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 15:12:36 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 15:14:17 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 15:16:47 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 15:19:37 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 15:21:48 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 15:23:33 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 15:26:49 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 15:33:02 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 15:34:27 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 15:35:35 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 15:37:09 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 15:46:38 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 15:48:50 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 16:28:49 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 16:32:12 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 16:34:48 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 16:37:11 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 16:37:45 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 16:43:36 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 16:45:39 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 16:54:23 $27576.0]	INFO	Server is reloading all workers now
+[2019-12-20 16:56:03 *31521.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught Error: Class 'App\WebSocket\Controller\ServerManager' not found in /home/www/easyswoole_myim/App/WebSocket/Controller/Index.php:62
+Stack trace:
+#0 /home/www/easyswoole_myim/vendor/easyswoole/socket/src/AbstractInterface/Controller.php(124): App\WebSocket\Controller\Index->chatMessage()
+#1 /home/www/easyswoole_myim/vendor/easyswoole/socket/src/Dispatcher.php(82): EasySwoole\Socket\AbstractInterface\Controller->__hook(Object(Swoole\WebSocket\Server), Object(EasySwoole\Socket\Config), Object(EasySwoole\Socket\Bean\Caller), Object(EasySwoole\Socket\Bean\Response))
+#2 /home/www/easyswoole_myim/EasySwooleEvent.php(57): EasySwoole\Socket\Dispatcher->dispatch(Object(Swoole\WebSocket\Server), '{"action":"chat...', Object(Swoole\WebSocket\Frame))
+#3 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}(Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#4 /home/www/easyswoole_myim/vendor/easyswoole/easyswoole/src/ServerManager.php(134): call_user_func(Object( in /home/www/easyswoole_myim/App/WebSocket/Controller/Index.php on line 62
+[2019-12-20 16:56:03 $31513.0]	WARNING	swManager_check_exit_status: worker#3[pid=31521] abnormal exit, status=255, signal=0
+[2019-12-20 16:58:01 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 16:58:28 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 17:16:24 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 17:18:17 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 17:18:26 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 17:19:16 *31865.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught Error: Using $this when not in object context in /home/www/easyswoole_myim/vendor/easyswoole/task/src/Task.php:69
+Stack trace:
+#0 /home/www/easyswoole_myim/App/WebSocket/Controller/Index.php(130): EasySwoole\Task\Task::async(Object(Closure))
+#1 /home/www/easyswoole_myim/vendor/easyswoole/socket/src/AbstractInterface/Controller.php(124): App\WebSocket\Controller\Index->chatMessage()
+#2 /home/www/easyswoole_myim/vendor/easyswoole/socket/src/Dispatcher.php(82): EasySwoole\Socket\AbstractInterface\Controller->__hook(Object(Swoole\WebSocket\Server), Object(EasySwoole\Socket\Config), Object(EasySwoole\Socket\Bean\Caller), Object(EasySwoole\Socket\Bean\Response))
+#3 /home/www/easyswoole_myim/EasySwooleEvent.php(57): EasySwoole\Socket\Dispatcher->dispatch(Object(Swoole\WebSocket\Server), '{"action":"chat...', Object(Swoole\WebSocket\Frame))
+#4 [internal function]: EasySwoole\EasySwoole\EasySwooleEvent::EasySwoole\EasySwoole\{closure}(Object(Swoole\WebSocket\Server), Object(Swoole\WebSocket\Frame))
+#5 /home/w in /home/www/easyswoole_myim/vendor/easyswoole/task/src/Task.php on line 69
+[2019-12-20 17:19:16 $31513.0]	WARNING	swManager_check_exit_status: worker#3[pid=31865] abnormal exit, status=255, signal=0
+[2019-12-20 17:19:49 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 17:24:25 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 17:25:17 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 17:25:40 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 17:25:43 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 17:26:19 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 17:26:35 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 17:41:18 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 17:41:25 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 17:41:55 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 17:44:54 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 17:50:29 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 17:50:58 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 17:53:07 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 17:57:05 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 17:58:31 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 17:58:49 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 18:02:48 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 18:04:26 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 18:04:35 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 18:06:09 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 18:10:07 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 18:11:36 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 18:20:39 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 18:21:58 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 18:22:43 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 18:28:38 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 18:29:05 $31513.0]	INFO	Server is reloading all workers now
+[2019-12-20 18:29:26 *32866.7]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-20 18:29:26 *32870.2]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-20 18:29:26 $31513.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-20 18:29:26 $31513.0]	WARNING	swManager_check_exit_status: worker#14[pid=31532] abnormal exit, status=0, signal=1
+[2019-12-20 18:29:26 $31513.0]	WARNING	swManager_check_exit_status: worker#13[pid=31531] abnormal exit, status=0, signal=1
+[2019-12-20 18:29:26 *32869.6]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-20 18:29:26 $31513.0]	WARNING	swManager_check_exit_status: worker#9[pid=31527] abnormal exit, status=0, signal=1
+[2019-12-20 18:29:26 $31513.0]	WARNING	swManager_check_exit_status: worker#10[pid=31528] abnormal exit, status=0, signal=1
+[2019-12-20 18:29:26 *32865.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-20 18:29:26 $31513.0]	WARNING	swManager_check_exit_status: worker#12[pid=31530] abnormal exit, status=0, signal=1
+[2019-12-20 18:29:26 *32864.5]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-20 18:29:26 $31513.0]	WARNING	swManager_check_exit_status: worker#11[pid=31529] abnormal exit, status=0, signal=1
+[2019-12-20 18:29:26 $31513.0]	WARNING	swManager_check_exit_status: worker#8[pid=31526] abnormal exit, status=0, signal=1
+[2019-12-20 18:29:26 $31513.0]	WARNING	swManager_check_exit_status: worker#15[pid=31533] abnormal exit, status=0, signal=1
+[2019-12-20 18:29:26 *32861.0]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-20 18:29:26 *32871.1]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-20 18:29:26 #31512.4]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-20 18:29:26 *32863.3]	WARNING	swSignalfd_onSignal (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-23 09:18:07 $17848.0]	INFO	Server is reloading all workers now
+[2019-12-23 09:19:55 $17848.0]	INFO	Server is reloading all workers now
+[2019-12-23 09:20:29 $17848.0]	INFO	Server is reloading all workers now
+[2019-12-23 09:22:05 $17848.0]	INFO	Server is reloading all workers now
+[2019-12-23 09:22:26 $17848.0]	INFO	Server is reloading all workers now
+[2019-12-23 09:27:20 $17848.0]	INFO	Server is reloading all workers now
+[2019-12-23 09:29:33 $17848.0]	INFO	Server is reloading all workers now
+[2019-12-23 09:33:51 $17848.0]	INFO	Server is reloading all workers now
+[2019-12-23 09:36:55 $17848.0]	INFO	Server is reloading all workers now
+[2019-12-23 09:42:55 $17848.0]	INFO	Server is reloading all workers now
+[2019-12-23 09:45:25 $17848.0]	INFO	Server is reloading all workers now
+[2019-12-23 09:58:24 $17848.0]	INFO	Server is reloading all workers now
+[2019-12-23 10:04:35 $17848.0]	INFO	Server is reloading all workers now
+[2019-12-23 10:19:35 $17848.0]	INFO	Server is reloading all workers now
+[2019-12-23 10:21:23 $17848.0]	INFO	Server is reloading all workers now
+[2019-12-23 10:21:39 $17848.0]	INFO	Server is reloading all workers now
+[2019-12-23 10:24:51 $17848.0]	INFO	Server is reloading all workers now
+[2019-12-23 10:30:40 $17848.0]	INFO	Server is reloading all workers now
+[2019-12-23 10:32:04 $17848.0]	INFO	Server is reloading all workers now
+[2019-12-23 10:33:15 $17848.0]	INFO	Server is reloading all workers now
+[2019-12-23 10:35:32 $17848.0]	INFO	Server is reloading all workers now
+[2019-12-23 10:38:22 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 10:38:27 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 10:44:06 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 10:49:33 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 10:50:20 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 10:50:26 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 10:53:06 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 10:54:14 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 10:54:15 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 10:55:58 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 11:00:46 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 11:06:37 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 11:19:23 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 11:19:44 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 11:23:01 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 11:23:35 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 11:23:51 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 11:25:24 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 11:25:40 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 11:28:03 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 11:28:04 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 11:29:21 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 11:34:38 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 11:36:25 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 11:37:38 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 11:40:07 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 11:52:07 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 11:53:11 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 11:53:30 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 11:54:24 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 11:57:57 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 14:28:12 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 14:31:13 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 14:32:52 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 14:37:38 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 14:42:07 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 14:43:14 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 14:45:48 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 14:50:13 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 14:50:40 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 14:50:47 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 14:52:52 $19114.0]	INFO	Server is reloading all workers now
+[2019-12-23 15:09:16 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 15:12:13 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 15:27:37 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 15:28:17 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 15:33:25 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 15:33:26 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 15:34:41 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 15:38:59 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 15:39:19 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 15:41:27 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 15:42:50 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 15:46:41 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 15:47:24 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 15:55:11 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 15:58:02 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 15:58:40 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 16:04:48 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 16:07:21 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 16:12:48 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 16:13:57 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 16:15:52 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 16:23:43 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 16:30:56 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 16:38:00 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 16:41:26 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 16:41:57 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 16:46:47 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 16:48:48 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 16:49:33 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 16:50:28 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 16:56:41 *23826.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[42000] [1064] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'read = ?  LIMIT 1' at line 1 in /home/www/easyswoole_myim/vendor/easyswoole/orm/src/Db/MysqliClient.php:60
+Stack trace:
+#0 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/DbManager.php(71): EasySwoole\ORM\Db\MysqliClient->query(Object(EasySwoole\Mysqli\QueryBuilder), false)
+#1 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php(1130): EasySwoole\ORM\DbManager->query(Object(EasySwoole\Mysqli\QueryBuilder), false, 'default')
+#2 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php(599): EasySwoole\ORM\AbstractModel->query(Object(EasySwoole\Mysqli\QueryBuilder))
+#3 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php(1203): EasySwoole\ORM\AbstractModel->all(NULL, true)
+#4 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php(311): EasySwoole\O in /home/www/easyswoole_myim/vendor/easyswoole/orm/src/Db/MysqliClient.php on line 60
+[2019-12-23 16:56:41 $22432.0]	WARNING	swManager_check_exit_status: worker#3[pid=23826] abnormal exit, status=255, signal=0
+[2019-12-23 16:57:49 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 17:02:05 $22432.0]	INFO	Server is reloading all workers now
+[2019-12-23 17:09:01 *24028.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught EasySwoole\ORM\Exception\Exception: SQLSTATE[42000] [1064] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'read = ?  LIMIT 1' at line 1 in /home/www/easyswoole_myim/vendor/easyswoole/orm/src/Db/MysqliClient.php:60
+Stack trace:
+#0 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/DbManager.php(71): EasySwoole\ORM\Db\MysqliClient->query(Object(EasySwoole\Mysqli\QueryBuilder), false)
+#1 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php(1130): EasySwoole\ORM\DbManager->query(Object(EasySwoole\Mysqli\QueryBuilder), false, 'default')
+#2 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php(599): EasySwoole\ORM\AbstractModel->query(Object(EasySwoole\Mysqli\QueryBuilder))
+#3 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php(1203): EasySwoole\ORM\AbstractModel->all(NULL, true)
+#4 /home/www/easyswoole_myim/vendor/easyswoole/orm/src/AbstractModel.php(311): EasySwoole\O in /home/www/easyswoole_myim/vendor/easyswoole/orm/src/Db/MysqliClient.php on line 60
+[2019-12-23 17:09:01 $24020.0]	WARNING	swManager_check_exit_status: worker#3[pid=24028] abnormal exit, status=255, signal=0
+[2019-12-23 17:09:19 $24020.0]	INFO	Server is reloading all workers now
+[2019-12-23 17:18:38 $24020.0]	INFO	Server is reloading all workers now
+[2019-12-23 17:19:26 $24020.0]	INFO	Server is reloading all workers now
+[2019-12-23 17:22:13 $24020.0]	INFO	Server is reloading all workers now
+[2019-12-23 17:24:32 $24020.0]	INFO	Server is reloading all workers now
+[2019-12-23 17:29:04 $24020.0]	INFO	Server is reloading all workers now
+[2019-12-23 17:41:18 $24020.0]	INFO	Server is reloading all workers now
+[2019-12-23 17:42:16 $24020.0]	INFO	Server is reloading all workers now
+[2019-12-23 17:44:37 $24020.0]	INFO	Server is reloading all workers now
+[2019-12-23 17:44:56 $24020.0]	INFO	Server is reloading all workers now
+[2019-12-23 17:47:09 $24020.0]	INFO	Server is reloading all workers now
+[2019-12-23 17:50:26 $24020.0]	INFO	Server is reloading all workers now
+[2019-12-23 17:50:37 $24020.0]	INFO	Server is reloading all workers now
+[2019-12-23 17:51:54 $24020.0]	INFO	Server is reloading all workers now
+[2019-12-23 17:55:35 $24020.0]	INFO	Server is reloading all workers now
+[2019-12-23 17:56:00 $24020.0]	INFO	Server is reloading all workers now
+[2019-12-24 09:14:08 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 09:29:17 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 09:30:18 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 09:31:04 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 09:35:31 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 09:47:51 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 09:49:53 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 10:24:24 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 10:29:45 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 10:32:18 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 10:34:27 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 10:34:28 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 10:35:23 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 10:37:54 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 10:41:10 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 10:41:54 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 10:43:42 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 10:45:08 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 10:47:41 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 10:54:46 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 10:54:47 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 11:03:43 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 11:04:47 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 11:07:57 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 11:11:48 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 11:19:37 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 11:20:27 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 11:21:20 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 11:22:14 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 11:23:53 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 11:24:29 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 11:25:00 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 11:26:27 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 11:36:35 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 11:43:41 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 11:46:12 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 11:47:48 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 11:48:04 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 11:49:59 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 11:54:53 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 11:56:56 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 12:00:32 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 12:02:35 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 12:03:02 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 14:15:32 $17860.0]	INFO	Server is reloading all workers now
+[2019-12-24 14:50:59 $22022.0]	INFO	Server is reloading all workers now
+[2019-12-24 14:53:57 $22022.0]	INFO	Server is reloading all workers now
+[2019-12-24 15:04:10 $22022.0]	INFO	Server is reloading all workers now
+[2019-12-24 15:47:52 $22022.0]	INFO	Server is reloading all workers now
